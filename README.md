@@ -8,7 +8,7 @@
 ```
 git clone https://github.com/akshaypatel774/Students-performance-prediction
 ```
-2. After cloning the repository, navigate into the project directory and create a conda environment by executing the following command:
+2. Navigate into the project directory and create a conda environment by executing the following command:
 ```
 conda create -n <env_name> python=3.8 -y
 ```
